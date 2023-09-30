@@ -1,10 +1,10 @@
 ToDo List App with ReactJS
 This is a simple ToDo list application built using ReactJS. It allows users to create, edit, and delete tasks, mark them as complete, and organize them into categories.
-Features
-Add new tasks with a title, description,
-Edit existing tasks to update their details.
-with user authentication login ,registration and logout feature.
-Organize tasks into categories or lists.
-Delete tasks you no longer need.
-User-friendly and responsive design.
-Easy-to-use interface.
+Features:-
+1.Add new tasks with a title, description.
+2.Edit existing tasks to update their details.
+3.with user authentication login ,registration and logout feature.
+4.Organize tasks into categories or lists.
+5.Delete tasks you no longer need.
+6.User-friendly and responsive design.
+7.Easy-to-use interface.
