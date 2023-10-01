@@ -12,6 +12,6 @@ Features:-
 
 5.Delete tasks you no longer need.
 
-6.User-friendly and responsive design.
+6.User-friendly .
 
 7.Easy-to-use interface.
